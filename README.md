@@ -12,4 +12,4 @@ Copy of string with all upper lower case a's, e's, s's, o's and b's replaced wit
 Meadowvale Falcons are AWESOME!
 
 # Output for Sample Input 1:
-M3@d0wv@l3 F@lc0n$ @r3 @W350m3!
+M3@d0wv@l3 F@lc0n$ @r3 @W3$0M3!
